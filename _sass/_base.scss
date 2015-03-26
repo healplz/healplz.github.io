@@ -202,3 +202,16 @@ pre {
         }
     }
 }
+
+/**
+ * Tables
+ */
+ 
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 15px 0px;
+}
+td {
+	border: 1px solid black;
+}

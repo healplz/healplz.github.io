@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction to Biml"
 date: 2015-03-26 09:47:16 
-categories: biml
+categories: biml guide
 ---
 ### What is Biml?
 
