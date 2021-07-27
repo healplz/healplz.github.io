@@ -1,4 +1,4 @@
-# Data Vault | Rapid Iteration with Data Vault 2.0
+# Rapid Iteration with Data Vault 2.0
 
 ## Overview
 
