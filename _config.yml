@@ -4,7 +4,7 @@ email: brock.dulaney@udig.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal data blog. Focus on ETL and Automation.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://healplz.github.io" # the base hostname & protocol for your site
+url: "https://healplz.github.io" # the base hostname & protocol for your site
 twitter_username: healplz
 github_username:  healplz
 
