@@ -22,7 +22,6 @@ url: "https://healplz.github.io" # the base hostname & protocol for your site, e
 twitter_username: healplz
 github_username:  healplz
 twitch_username: healplz_
-show_excerpts: true
 
 # Build settings
 markdown: kramdown
